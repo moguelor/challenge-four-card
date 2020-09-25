@@ -1,5 +1,8 @@
-# Frontend Mentor - Four card feature section
+# Single price grid component [Demo Live](https://moguelor.github.io/frontend-challenge-one/)
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+Practice project for html and css with flexbox, challenge from Frontend Mentor.
+
+[Link to challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
 
+Feel free to use it. 
