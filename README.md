@@ -1,4 +1,4 @@
-# Single price grid component [Demo Live](https://moguelor.github.io/frontend-challenge-one/)
+# Single price grid component [Demo Live](https://moguelor.github.io/challenge-four-card/)
 
 Practice project for html and css with flexbox, challenge from Frontend Mentor.
 
